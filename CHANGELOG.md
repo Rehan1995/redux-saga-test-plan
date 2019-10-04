@@ -1896,5 +1896,6 @@ assertions fail, so you have a better idea why a test is failing.
 ---
 
 ## v0.1.0
+## okay done!
 
 ### Support redux-saga 0.11.x
